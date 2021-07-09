@@ -3435,6 +3435,10 @@ input[type="range"]:focus::-ms-fill-upper {
   display: none;
 }
 
+.option {
+  padding: 20px;
+}
+
 .static {
   position: static;
 }

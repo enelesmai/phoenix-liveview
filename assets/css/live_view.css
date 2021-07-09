@@ -86,3 +86,6 @@
 .alert:empty {
   display: none;
 }
+.option {
+  padding: 20px;
+}
